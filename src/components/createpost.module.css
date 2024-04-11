@@ -1,0 +1,17 @@
+main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box{
+    width: 40vw;
+    margin: 2rem;
+    padding: 1.5rem;
+    border: 4px solid black;
+    border-radius: 2rem;
+    font-weight: 700;
+    font-size: 1.3rem;
+}
